@@ -1,0 +1,21 @@
+Code for:			Score:	Comments:
+HW2 (plotting points)		0/10	Where's it at?
+
+HW3 (blackbody plot of stars)	0/10	Where's it at?
+
+HW4 (binning blackbody)		0/5 	Where's it at?
+
+HW4 (Gaussian populations)	0/5	Where's it at?
+
+HW5 (Hubble blackbody)          0/10    Where's it at?
+
+HW6 (Rays and xls)              0/10    Where's it at?
+
+HW7 (Correlation)               0/10    Where's it at?
+
+HW8 (M33)                       0/10    Where's it at?
+
+HW10 (Spectrum analysis)        0/10    Where's it at?
+
+Note:
+I'll change your grades as things get updated on Bit, so don't quake at the zeroes
